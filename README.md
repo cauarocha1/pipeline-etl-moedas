@@ -25,5 +25,4 @@ O projeto visa demonstrar competências técnicas fundamentais em Engenharia de 
 - pip (Gerenciador de pacotes)
 
 ## Autor
-Cauã Rocha 
-```bash
+Cauã Rocha
